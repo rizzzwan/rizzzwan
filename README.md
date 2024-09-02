@@ -1,4 +1,4 @@
-Hi! i am currently learning python. Any Tips ???
+"An aspiring Data Scientist navigating the unknown, eager to start the journey."
 
 
 <!---
