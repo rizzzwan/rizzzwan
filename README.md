@@ -1,4 +1,4 @@
-"An aspiring Data Scientist navigating the unknown, eager to start the journey."
+"An aspiring AI engineer navigating the unknown, eager to start the journey."
 
 
 <!---
