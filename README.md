@@ -1,4 +1,4 @@
-"An aspiring AI engineer navigating the unknown, eager to start the journey."
+AI student|Programmer(I guess)| Data & ML aspirant. ⚽♟️🎸 
 
 
 <!---
