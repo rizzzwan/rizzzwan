@@ -1,4 +1,4 @@
-AI student|Programmer(I guess)| Data & ML aspirant. ⚽♟️🎸 
+AI student| Programmer(I guess) | Data & ML aspirant. ⚽♟️🎸 
 
 
 <!---
